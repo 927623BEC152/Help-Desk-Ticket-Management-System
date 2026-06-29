@@ -177,8 +177,3 @@ B.E. Electronics and Communication Engineering
 
 M. Kumarasamy College of Engineering
 
----
-
-## 📄 License
-
-This project is developed for academic and learning purposes.
